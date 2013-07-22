@@ -8,7 +8,8 @@
 try {
     var C = require('node-pngcrush');
 } catch(e){
-    fis.log.warning('node-pngcrush does not support the version you\'re using node');
+    fis.log.warning('node-pngcrush does not support your node ' + process.version +
+        ', report it to https://github.com/xiangshouding/node-pngcrush/issues');
 }
 
 module.exports = function(content, file, conf) {
