@@ -1,6 +1,6 @@
 {
   "name": "fis-optimizer-pngcrush",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "pngcrush on fis",
   "main": "index.js",
   "scripts": {
@@ -10,15 +10,9 @@
     "type": "git",
     "url": "https://github.com/xiangshouding/fis-optimizer-pngcrush.git"
   },
-  "keywords": [
-    "fis",
-    "pngcrush",
-    "node-pngcrush",
-    "png",
-    "image"
-  ],
+  "keywords": [ "fis", "pngcrush", "node-pngcrush", "png", "image" ],
   "dependencies": {
-      "node-pngcrush": "0.0.2"
+      "node-pngcrush": "0.0.3"
   },
   "author": "xiangshouding <xiangshouding@baidu.com>",
   "license": "MIT",

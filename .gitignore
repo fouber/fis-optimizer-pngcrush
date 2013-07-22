@@ -1,11 +1,11 @@
 /.idea
-/.settings
-/.project
+node_modules/
 
-tmp
-~*
+.DS_Store
 *.db
 *.bak
 *.tmp
-*.swp
-.DS_Store
+*.cmd
+~*
+
+upload.py
