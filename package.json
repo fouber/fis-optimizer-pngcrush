@@ -13,10 +13,13 @@
   "keywords": [
     "fis",
     "pngcrush",
-    "node-images",
+    "node-pngcrush",
     "png",
     "image"
   ],
+  "dependencies": {
+      "node-pngcrush": "0.0.2"
+  },
   "author": "xiangshouding <xiangshouding@baidu.com>",
   "license": "MIT",
   "bugs": {
