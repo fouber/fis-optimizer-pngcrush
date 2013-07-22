@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/xiangshouding/fis-optimizer-pngcrush.git"
+    "url": "https://github.com/fis-dev/fis-optimizer-pngcrush.git"
   },
   "keywords": [ "fis", "pngcrush", "node-pngcrush", "png", "image" ],
   "dependencies": {
@@ -17,6 +17,6 @@
   "author": "xiangshouding <xiangshouding@baidu.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/xiangshouding/fis-optimizer-pngcrush/issues"
+    "url": "https://github.com/fis-dev/fis-optimizer-pngcrush/issues"
   }
 }
