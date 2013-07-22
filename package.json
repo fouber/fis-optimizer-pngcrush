@@ -1,0 +1,25 @@
+{
+  "name": "fis-optimizer-pngcrush",
+  "version": "0.0.1",
+  "description": "pngcrush on fis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xiangshouding/fis-optimizer-pngcrush.git"
+  },
+  "keywords": [
+    "fis",
+    "pngcrush",
+    "node-images",
+    "png",
+    "image"
+  ],
+  "author": "xiangshouding <xiangshouding@baidu.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xiangshouding/fis-optimizer-pngcrush/issues"
+  }
+}
